@@ -1,3 +1,5 @@
+2023.1.23 主要修订xray_mod1.sh中Xray版本判断不正确问题，移除v6_proxy，更换acme.sh的email地址。
+
 本脚本是备份自网络跳越hijk大佬的脚本修改，
 
 修改了原脚本中与hijk.art绑定的域名IP检测，
